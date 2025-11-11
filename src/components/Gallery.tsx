@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { Dialog, DialogContent } from "./ui/dialog";
+import React from "react";
 
 const portfolioItems = [
   // Sofa (8 items)

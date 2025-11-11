@@ -12,7 +12,7 @@ const branches = [
   },
   {
     city: 'Batam',
-    address: 'Jl. Raja Ali Haji No. 456, Batam Center, Kepulauan Riau',
+    address: 'Jl. Raja Ali Haji, Batam Center, Kepulauan Riau',
     phone: '+62 812 7770 2044',
     email: 'udmexico@gmail.com',
     whatsapp: '6281277702044',
