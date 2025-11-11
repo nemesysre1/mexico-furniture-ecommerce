@@ -26,7 +26,7 @@ const branches = [
   },
   {
     city: 'Samosir',
-    address: 'Jl. Pelabuhan, Pangururan, Sumatera Utara',
+    address: 'Jl. Hadrianus Sinaga, Pintu Sona, Sumatera Utara',
     phone: '+62 852 2143 0798',
     email: 'udmexico@gmail.com',
     whatsapp: '6285221430798',
