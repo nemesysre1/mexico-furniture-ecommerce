@@ -1,0 +1,17 @@
+declare module '*.jpg';
+declare module '*.jpeg';
+declare module '*.png';
+declare module '*.svg';
+declare module '*.gif';
+declare module '*.webp';
+declare module '*.mp4';
+declare module '*.mp3';
+declare module '*.wav';
+declare module '*.woff';
+declare module '*.woff2';
+declare module '*.ttf';
+declare module '*.eot';
+declare module '*.otf';
+declare module '*.css';
+declare module '*.scss';
+declare module '*.less';
